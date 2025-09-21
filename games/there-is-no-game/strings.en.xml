@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <strings>
-	<string id='Intro01'>Hello user!</string>
-	<string id='Intro02'>I ... I have bad news.</string>
-	<string id='Intro03'>Actually, there is no game.</string>
-	<string id='Intro04'>So, I hope you're not too much disappointed.</string>
-	<string id='Intro05'>You can still watch tv, go outside...</string>
-	<string id='Intro05b'>...read a book, ask for a refund...</string>
+	<string id='Intro01'>Hello sad face in you face!</string>
+	<string id='Intro02'>I ... I have stupid news.</string>
+	<string id='Intro03'>Actually, there is come to papa.</string>
+	<string id='Intro04'>So, I hope you can put your face in mud.</string>
+	<string id='Intro05'>You can still watch youtube about mud , go outside and play with mud...</string>
+	<string id='Intro05b'>...read a book, ask for mud in you face...</string>
 	<string id='Intro06'>Hm No. No Refund. That game is free.</string>
 	<string id='Intro07'>THIS IS NOT A GAME!</string>
 	<string id='Intro08'>It has nothing to do with a game.</string>
